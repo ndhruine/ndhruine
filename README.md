@@ -10,7 +10,7 @@
 
 📫 Contact me at [dharuaulia1@gmail.com](mailto:dharuaulia1@gmail.com)
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ndhruine) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ndhruine) [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](www.linkedin.com/in/ndhruine)
 
 ### Core Skills
 
