@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there, Nice to see you. I'm Dharu Aulia Rahman </h1>
 
-<img align="right" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanyarui&langs_count=10&theme=midnight-purple&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+<img align="right" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanyarui&langs_count=10&theme=midnight-purple&hide_border=true&locale=en&custom_title=My%20Top%20%Languages" alt="Top Languages" />
 
 <h3>Dreamer Developer especially in Software Development from DI Yogyakarta, Indonesia <img src="https://cdn-icons-png.flaticon.com/512/323/323372.png" width="19"/>🌍</h3>
 
