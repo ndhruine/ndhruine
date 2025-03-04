@@ -8,7 +8,7 @@
 
 🔭 I’m currently studying on Ahmad Dahlan University<br>
 
-📫 Contact me at [dharuaulia1@gmail.com](mailto:dharurahman.cp.business@gmail.com)
+📫 Contact me at [dharurahman.cp.business@gmail.com](mailto:dharurahman.cp.business@gmail.com)
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ndhruine) [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](www.linkedin.com/in/ndhruine)
 
